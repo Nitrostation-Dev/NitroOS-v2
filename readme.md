@@ -1,21 +1,10 @@
 # NitroOS
 
-![Project Logo](/path/to/logo.png)
-
-[Short Project Description]
+NitroOS is a custom operating system application created for the sole purpose of understanding how an operating system handles its user interface. This project is developed in python, so it can customized easily. This project is developed solely for learning purposes.
 
 ## Table of Contents
-- [About](#about)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## About
-
-NitroOS is a custom operating system application created for the sole purpose of understanding how an operating system handles its user interface. This project is developed in python, so it can customized easily. This project is developed solely for learning purposes.
 
 ## Features
 
